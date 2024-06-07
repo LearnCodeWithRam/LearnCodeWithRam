@@ -1,5 +1,4 @@
-![image](https://github.com/LearnCodeWithRam/LearnCodeWithRam/assets/87684078/33dcfc87-59c6-47a9-9d5e-1222ec934e1d)
-![image](https://capsule-render.vercel.app/api?type=waving&height=182&color=gradient&text=Hello%20Everybody!&reversal=false&textBg=false&fontAlign=49&animation=fadeIn&fontAlignY=45&fontColor=0000ff).
+![image](https://capsule-render.vercel.app/api?type=waving&height=182&color=gradient&text=Hello%10Everybody!&reversal=false&textBg=false&fontAlign=49&animation=fadeIn&fontAlignY=45&fontColor=0000ff).
 
 - 👋 Hi, I’m Ramanuj, 👀 a Full Stack Software Engineer from [IN](https://en.wikipedia.org/wiki/India), 🌱 passionate about developing production-ready applications with 3+ years of professional onsite as well as remote working experience. 🎯
 
