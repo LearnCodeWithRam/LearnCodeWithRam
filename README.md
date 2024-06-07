@@ -1,8 +1,5 @@
 ![image](https://github.com/LearnCodeWithRam/LearnCodeWithRam/assets/87684078/33dcfc87-59c6-47a9-9d5e-1222ec934e1d)
 
-![header](https://capsule-render.vercel.app/api?text=Hello%World!)
-![image](https://github.com/LearnCodeWithRam/LearnCodeWithRam/assets/87684078/7351519f-7d79-4085-85ff-6c6c0ea74a9c)
-
 - 👋 Hi, I’m Ramanuj, 👀 a Full Stack Software Engineer from [IN](https://en.wikipedia.org/wiki/India), 🌱 passionate about developing production-ready applications with 3+ years of professional onsite as well as remote working experience. 🎯
 
 - 💞️ I mostly work with Python and Java, MVC Frameworks and Cloud based technologies. 🚀
