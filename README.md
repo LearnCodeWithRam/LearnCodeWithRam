@@ -1,3 +1,4 @@
+![image](https://github.com/LearnCodeWithRam/LearnCodeWithRam/assets/87684078/33dcfc87-59c6-47a9-9d5e-1222ec934e1d)
 
 - 👋 Hi, I’m Ramanuj, 👀 a Full Stack Software Engineer from [IN](https://en.wikipedia.org/wiki/India), 🌱 passionate about developing production-ready applications with 3+ years of professional onsite as well as remote working experience. 🎯
 
